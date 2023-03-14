@@ -12,12 +12,10 @@ The repository is organized into folders based on the programming languages and 
 - `express`: Express.js code snippets, examples, and notes.
 - ...
 
-Feel free to browse the repository and use any code snippets or examples that you find useful. However, please note that the code is provided as-is and without any warranties. Use at your own risk.
 
 ## Contributing
 
-This repository is intended for my personal use, so I'm not currently accepting contributions or pull requests. However, if you notice any errors or issues with the code, please feel free to open an issue or reach out to me directly.
+This repository is intended for my personal use, Feel free to browse the repository and use any code snippets or examples that you find useful. If you have good knowledge of any of the technologies covered in this repository, you're welcome to contribute additional notes or code snippets by opening a pull request.I'm generally open to accepting new knowledge and insights from others.
 
-## License
+if you notice any errors or issues with the code, please feel free to open an issue or reach out to me directly.
 
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
