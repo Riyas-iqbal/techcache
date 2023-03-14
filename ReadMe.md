@@ -2,6 +2,10 @@
 
 Techcache is a personal knowledge base and code repository for my tech stack. It's where I store notes, code snippets, and examples related to various programming languages and frameworks that I use. The repository is intended for my personal use, but feel free to browse and use any code snippets that you find useful.
 
+## The name Techcache
+
+This repository is personal knowledge base my your tech stack. The word "cache" typically refers to a temporary storage area for frequently accessed data, so the name "Techcache" suggest a repository where you store and quickly access your most important technical knowledge.
+
 ## Contents
 
 The repository is organized into folders based on the programming languages and frameworks that I use. Each folder contains code snippets, examples, and notes related to that language or framework. Here's a brief overview of what you'll find in each folder:
