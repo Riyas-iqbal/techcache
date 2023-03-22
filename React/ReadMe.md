@@ -78,3 +78,7 @@ function Header({ title }) {
   return <h1>{title ? title : 'Default Title'}</h1>;
 }
 ```
+
+## State and Hooks
+
+React has a set of functions called hooks. Hooks allow you to add additional logic such as state to your components. You can think of state as any information in your UI that changes over time, usually triggered by user interaction.
