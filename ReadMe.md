@@ -4,7 +4,7 @@ Techcache is a personal knowledge base and code repository for my tech stack. It
 
 ## The name Techcache
 
-This repository is personal knowledge base my your tech stack. The word "cache" typically refers to a temporary storage area for frequently accessed data, so the name "Techcache" suggest a repository where you store and quickly access your most important technical knowledge.
+The word "cache" typically refers to a temporary storage area for frequently accessed data, so the name "Techcache" suggest a repository where you store and quickly access your most important technical knowledge.
 
 ## Contents
 
